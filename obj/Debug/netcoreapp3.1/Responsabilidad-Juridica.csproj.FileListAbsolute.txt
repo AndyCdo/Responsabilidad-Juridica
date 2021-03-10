@@ -1,0 +1,13 @@
+E:\work\Git Hub\Responsabilidad-Juridica\bin\Debug\netcoreapp3.1\Responsabilidad-Juridica.exe
+E:\work\Git Hub\Responsabilidad-Juridica\bin\Debug\netcoreapp3.1\Responsabilidad-Juridica.deps.json
+E:\work\Git Hub\Responsabilidad-Juridica\bin\Debug\netcoreapp3.1\Responsabilidad-Juridica.runtimeconfig.json
+E:\work\Git Hub\Responsabilidad-Juridica\bin\Debug\netcoreapp3.1\Responsabilidad-Juridica.runtimeconfig.dev.json
+E:\work\Git Hub\Responsabilidad-Juridica\bin\Debug\netcoreapp3.1\Responsabilidad-Juridica.dll
+E:\work\Git Hub\Responsabilidad-Juridica\bin\Debug\netcoreapp3.1\Responsabilidad-Juridica.pdb
+E:\work\Git Hub\Responsabilidad-Juridica\obj\Debug\netcoreapp3.1\Responsabilidad-Juridica.csprojAssemblyReference.cache
+E:\work\Git Hub\Responsabilidad-Juridica\obj\Debug\netcoreapp3.1\Responsabilidad-Juridica.AssemblyInfoInputs.cache
+E:\work\Git Hub\Responsabilidad-Juridica\obj\Debug\netcoreapp3.1\Responsabilidad-Juridica.AssemblyInfo.cs
+E:\work\Git Hub\Responsabilidad-Juridica\obj\Debug\netcoreapp3.1\Responsabilidad-Juridica.csproj.CoreCompileInputs.cache
+E:\work\Git Hub\Responsabilidad-Juridica\obj\Debug\netcoreapp3.1\Responsabilidad-Juridica.dll
+E:\work\Git Hub\Responsabilidad-Juridica\obj\Debug\netcoreapp3.1\Responsabilidad-Juridica.pdb
+E:\work\Git Hub\Responsabilidad-Juridica\obj\Debug\netcoreapp3.1\Responsabilidad-Juridica.genruntimeconfig.cache
